@@ -1,5 +1,5 @@
 // Ignore the shit code
-// just copy/paste into terminal of desmos
+// just copy/paste into console of desmos
 // got forced to upload this before its ready for release
 // this is made for testing the syntax hilighting, and wont do anything
 // after copy/paste, just start typing as it uses full document listener because this is for testing only
